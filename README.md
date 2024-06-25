@@ -1,0 +1,2 @@
+# Ternate
+evacuation route
